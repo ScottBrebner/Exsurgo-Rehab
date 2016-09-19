@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: ce6a6b518c48d0e47b17cb49084cc26a
+timeCreated: 1472012717
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Button_UpDown
+    21300002: Button_RightLeft
+    21300004: Button_Clockwise_Square
+    21300006: Button_Anticlockwise_Square
+    21300008: Button_Diagonal_Up_RightDown_Left
+    21300010: Button_Diagonal Up_LeftDown_Right
+    21300012: Button_Arc_LeftRight
+    21300014: Button_Arc_RightLeft
+    21300016: Button_Clockwise
+    21300018: Button_Anticlockwise
+    21300020: Button_Figure_8_Clockwise_from_Base
+    21300022: Button_Figure_8_Anticlockwise_from_Base
+    21300024: UI_Rounded_Border
+    21300026: UI_Stop
+    21300028: UI_Go
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Button_UpDown
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 523
+        width: 204
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 77}
+        - {x: -102, y: 73}
+        - {x: -102, y: -73}
+        - {x: -98, y: -77}
+        - {x: 102, y: -77}
+        - {x: 102, y: 77}
+    - name: Button_RightLeft
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 523
+        width: 204
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 77}
+        - {x: -102, y: 73}
+        - {x: -102, y: -73}
+        - {x: -98, y: -77}
+        - {x: 102, y: -77}
+        - {x: 102, y: 77}
+    - name: Button_Clockwise_Square
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 523
+        width: 204
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 77}
+        - {x: -102, y: 73}
+        - {x: -102, y: -73}
+        - {x: -98, y: -77}
+        - {x: 102, y: -77}
+        - {x: 102, y: 77}
+    - name: Button_Anticlockwise_Square
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 523
+        width: 204
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 77}
+        - {x: -102, y: 73}
+        - {x: -102, y: -73}
+        - {x: -98, y: -77}
+        - {x: 102, y: -77}
+        - {x: 102, y: 77}
+    - name: Button_Diagonal_Up_RightDown_Left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 204
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 77}
+        - {x: -102, y: 73}
+        - {x: -102, y: -73}
+        - {x: -98, y: -77}
+        - {x: 102, y: -77}
+        - {x: 102, y: 77}
+    - name: Button_Diagonal Up_LeftDown_Right
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 362
+        width: 204
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 77}
+        - {x: -102, y: 73}
+        - {x: -102, y: -73}
+        - {x: -98, y: -77}
+        - {x: 102, y: -77}
+        - {x: 102, y: 77}
+    - name: Button_Arc_LeftRight
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 362
+        width: 204
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 77}
+        - {x: -102, y: 73}
+        - {x: -102, y: -73}
+        - {x: -98, y: -77}
+        - {x: 102, y: -77}
+        - {x: 102, y: 77}
+    - name: Button_Arc_RightLeft
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 362
+        width: 204
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 77}
+        - {x: -102, y: 73}
+        - {x: -102, y: -73}
+        - {x: -98, y: -77}
+        - {x: 102, y: -77}
+        - {x: 102, y: 77}
+    - name: Button_Clockwise
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 204
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 77}
+        - {x: -102, y: 73}
+        - {x: -102, y: -73}
+        - {x: -98, y: -77}
+        - {x: 102, y: -77}
+        - {x: 102, y: 77}
+    - name: Button_Anticlockwise
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 202
+        width: 204
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 77}
+        - {x: -102, y: 73}
+        - {x: -102, y: -73}
+        - {x: -98, y: -77}
+        - {x: 102, y: -77}
+        - {x: 102, y: 77}
+    - name: Button_Figure_8_Clockwise_from_Base
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 202
+        width: 204
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 77}
+        - {x: -102, y: 73}
+        - {x: -102, y: -73}
+        - {x: -98, y: -77}
+        - {x: 102, y: -77}
+        - {x: 102, y: 77}
+    - name: Button_Figure_8_Anticlockwise_from_Base
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 202
+        width: 204
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 77}
+        - {x: -102, y: 73}
+        - {x: -102, y: -73}
+        - {x: -98, y: -77}
+        - {x: 102, y: -77}
+        - {x: 102, y: 77}
+    - name: UI_Rounded_Border
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 42
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 12, z: 12, w: 12}
+      outline:
+      - - {x: -48, y: 52}
+        - {x: -52, y: 48}
+        - {x: -52, y: -48}
+        - {x: -48, y: -52}
+        - {x: 48, y: -52}
+        - {x: 52, y: -48}
+        - {x: 52, y: 48}
+        - {x: 48, y: 52}
+      - - {x: -45, y: -40}
+        - {x: -41, y: 44}
+        - {x: 44, y: 41}
+        - {x: 41, y: -44}
+    - name: UI_Stop
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 94}
+        - {x: -94, y: 74}
+        - {x: -94, y: -42}
+        - {x: -42, y: -94}
+        - {x: 42, y: -94}
+        - {x: 94, y: -42}
+        - {x: 94, y: 44}
+        - {x: 74, y: 94}
+    - name: UI_Go
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 94}
+        - {x: -94, y: 74}
+        - {x: -94, y: -42}
+        - {x: -42, y: -94}
+        - {x: 42, y: -94}
+        - {x: 94, y: -42}
+        - {x: 94, y: 44}
+        - {x: 74, y: 94}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
